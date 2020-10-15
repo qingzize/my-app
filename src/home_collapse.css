@@ -1,0 +1,35 @@
+.allTypes{
+    width: 90%;
+    margin: auto;
+}
+.typeTitle{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.showButton{
+    width: 17.97px;
+    background: #424242;
+    height: 1.67px;
+}
+.typeLine{
+    width: 100%;
+    height: 1px;
+    margin-top: 20px;
+    background: #DDDDDD;
+}
+.additem{
+    width: 90%;
+    display: flex;
+    justify-content: flex-start;
+    margin: auto;
+}
+.searchResult{
+    width: 90%;
+    margin: auto;
+}
+.additem span, label{
+    margin-left: 1px;
+}
+    
